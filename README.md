@@ -1,4 +1,4 @@
 App básico feito com REACT Native e Expo
 
 ### 🗺️ Imagem do app
-![Imagem do app](screenshots/appImage.jpeg)
+<img src="screenshots/appImage.jpeg" alt="Imagem do app" width="300" height="600" />
