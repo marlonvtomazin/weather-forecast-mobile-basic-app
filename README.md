@@ -1,0 +1,1 @@
+App básico feito com REACT e Expo
